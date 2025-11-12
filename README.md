@@ -4,9 +4,11 @@
 
 # 🛸 Rick & Morty: Flutter Explorer
 
+</p>
 
 Wubba Lubba Dub Dub! This is a complete Flutter app to explore the Rick & Morty universe, allowing navigation, search and filtering for Characters, Episodes and Locations.
 
+<p align="center">
 
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge&logo=rocket">
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3.x-blue.svg?style=for-the-badge&logo=flutter">
