@@ -109,7 +109,7 @@ You need the [Flutter SDK](https://flutter.dev/docs/get-started/install) install
 1. **Clone the repository:**
 
   ```bash
-    git clone https://github.com/Zekra-Labs/Flutter-RickAndMorty-APP.git
+    git clone https://github.com/Aethelon/Flutter-RickAndMorty-APP.git
     cd Flutter-RickAndMorty-APP
   ```
 

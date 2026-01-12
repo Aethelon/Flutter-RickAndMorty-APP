@@ -191,7 +191,7 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
   }
 
   void _showAboutDialog(BuildContext context) {
-    final githubUrl = Uri.parse('https://github.com/Zekra-Labs/Flutter-RickAndMorty-APP');
+    final githubUrl = Uri.parse('https://github.com/Aethelon/Flutter-RickAndMorty-APP');
 
     showDialog(
       context: context,
